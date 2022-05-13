@@ -21,6 +21,7 @@ Due to MechaCar's production troubles, AutosRU has called the data analytics tea
 ![](https://github.com/EnoVaqari/MechaCar_Statistical_Analysis/blob/main/Images/2.png)
 Total summary.
 ![](https://github.com/EnoVaqari/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.png)
+***
 Lot summary.
 ![](https://github.com/EnoVaqari/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.png)
 
